@@ -20,6 +20,8 @@
 def sum_func(num1, num2):  # defining summation func
     return num1 + num2
 
+def ded_func(num1, num2): # defining subtraction function
+    return num1 - num2
 
 # %%
 """

@@ -86,8 +86,9 @@ def main_func():
             
         
     print(res)
-    
-    
+
+def ded_func(num1, num2):
+    return num1 - num2
     
    
 # %%

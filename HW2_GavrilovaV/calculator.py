@@ -23,6 +23,8 @@ def sum_func(num1, num2):  # defining summation func
 def ded_func(num1, num2): # defining subtraction function
     return num1 - num2
 
+def mult_func(num1, num2):  # defining multiplication function
+    return num1 * num2
 # %%
 """
 defining MAIN FUNCTION
